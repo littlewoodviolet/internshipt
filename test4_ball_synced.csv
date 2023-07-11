@@ -1,3 +1,4 @@
+Time,	Gyro X,	Gyro Y,	Gyro Z,	Accel X,	Accel Y,	Accel Z,	Pressure,	Temperature,	Quat W,	Quat X,	Quat Y,	Quat Z
 0.00195,0.48065,-0.22811,-0.63445,0.06199,-0.87624,0.47557,1032.241,29.5,0.81342,-0.46106,0.14786,-0.32235
 0.00391,,,,,,,,,,,,
 0.00586,,,,,,,,,,,,
