@@ -1,7 +1,3 @@
-Gait Up - Physilog data export
-Created on: 2023-07-11 07:04:46
-Total data points: 6056
-
 Time [512 hz],Gyro [64 hz],,,Accel [64 hz],,,Baro [64 hz],,Quaternion [64 hz],,,
 Time,Gyro X,Gyro Y,Gyro Z,Accel X,Accel Y,Accel Z,Pressure,Temperature,Quat W,Quat X,Quat Y,Quat Z
 [s],[deg/s],[deg/s],[deg/s],[g],[g],[g],[mBar],[degree C],[],[],[],[]
